@@ -20,7 +20,7 @@
 -NETWORKING
 
 ### EDUCATION
-![](https://github.com/harshdeepjanjua/portfolio/blob/main/images/README.md)
+![EEG Band Discovery](https://github.com/harshdeepjanjua/portfolio/blob/main/images/README.md)
 DIPLOMA IN COMPUTER SYSTEMS TECHNICIAN
 
 St.LAWRENCE COLLEGE, ONTARIO
