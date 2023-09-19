@@ -21,7 +21,7 @@
 
 ### EDUCATION
 
-###![](https://github.com/harshdeepjanjua/portfolio/blob/main/images/README.md)
+![alt text] (image.jpg)
 
 DIPLOMA IN COMPUTER SYSTEMS TECHNICIAN
 
