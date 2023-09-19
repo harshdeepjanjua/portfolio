@@ -21,7 +21,7 @@
 
 ### EDUCATION
 
-                                                                                           ![](https://user-images.githubusercontent.com/145364642/268708926-08403bef-3322-46b1-ba3f-81fba91480ff.jpg)
+                                                                                          
 DIPLOMA IN COMPUTER SYSTEMS TECHNICIAN
 
 St.LAWRENCE COLLEGE, ONTARIO
@@ -30,6 +30,7 @@ St.LAWRENCE COLLEGE, ONTARIO
 
 ### PROJECTS
 PORTFOLIO WEBSITE – Have finished this project using HTML AND CSS. In this one can put his/her information for job profiles which is easy to access for users.
+
 ONLINE HOTEL ROOM BOOKING – It was a group project. Me and my teammates has accomplished this task by using HTML, CSS, JavaScript languages. 
 
 ### CAREER OBJECTIVE
